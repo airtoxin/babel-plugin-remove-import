@@ -1,0 +1,24 @@
+{
+  "name": "babel-plugin-remove-import",
+  "version": "0.0.1",
+  "description": "The babel-plugin that removes specified package's codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airtoxin/babel-plugin-remove-import.git"
+  },
+  "keywords": [],
+  "author": "airtoxin <airtoxin@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/airtoxin/babel-plugin-remove-import/issues"
+  },
+  "homepage": "https://github.com/airtoxin/babel-plugin-remove-import#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "jest": "^22.4.0"
+  }
+}
